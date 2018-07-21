@@ -1,0 +1,1 @@
+The IPython Notebooks allows to perform bitcoin forecasts with stateless LSTMs in Tensorflow. To execute the code, simply run the notebook. 
